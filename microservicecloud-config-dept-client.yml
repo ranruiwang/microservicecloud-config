@@ -56,3 +56,4 @@ eureka:
   instance:
     instance-id: microservicecloud-dept8001
     prefer-ip-address: true    
+#
